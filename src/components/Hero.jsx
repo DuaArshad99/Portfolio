@@ -6,7 +6,7 @@ const RESPONSE_LINES = [
   `  "name": "${profile.name}",`,
   `  "title": "${profile.title}",`,
   `  "location": "${profile.location}",`,
-  `  "gpa": 3.97,`,
+  `  "gpa": 3.96,`,
   `  "status": "open_to_opportunities"`,
   `}`,
 ]
